@@ -40,4 +40,4 @@
 
 ---
 
-*Built with 🤝 at 구름 해커톤 2025*
+*Built with 🤝 at 구름 해커톤 2026*
