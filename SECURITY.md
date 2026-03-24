@@ -39,7 +39,7 @@ JWT_SECRET=super-secret-string
 ### ❌ 하드코딩 금지
 
 ```javascript
-// ❌ 절대 이렇게 하지 마세요
+// ❌ 절대 이렇게 하시면 안 돼요!
 const apiKey = "sk-proj-abc123...";
 
 // ✅ 환경변수로 불러오세요
