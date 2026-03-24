@@ -50,7 +50,7 @@ const apiKey = process.env.OPENAI_API_KEY;
 
 ## 3️⃣ 실수로 시크릿을 커밋했다면?
 
-> 🚨 **즉시 조치가 필요합니다!**
+> 🚨 **즉시 조치해주세요!**
 
 1. **해당 키 즉시 폐기(Revoke)** — 대시보드에서 재발급
 2. **BFG Repo-Cleaner로 히스토리 삭제**
